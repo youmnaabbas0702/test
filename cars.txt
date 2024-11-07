@@ -3,3 +3,4 @@ slamo
 vc
 toyota
 vcc
+kia
